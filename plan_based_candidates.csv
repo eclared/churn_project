@@ -1,0 +1,187 @@
+,city,area_code,account_length,international_plan,voice_mail_plan,number_vmail_messages,total_day_minutes,total_day_calls,total_day_charge,total_eve_minutes,total_eve_calls,total_eve_charge,total_night_minutes,total_night_calls,total_night_charge,customer_service_calls,churn,phone_num,which_plan
+2,Orlando1,321,12,yes,no,0,216.7,117,36.84,116.5,126,9.9,220.0,110,9.9,2,0,5211,International only
+38,Orlando1,321,57,yes,yes,30,234.5,130,39.87,195.2,116,16.59,268.8,94,12.1,2,0,3782,International & Voicemail 
+101,Orlando1,321,85,yes,no,0,216.0,73,36.72,188.2,117,16.0,147.1,98,6.62,2,0,2776,International only
+120,Orlando1,321,90,yes,no,0,221.8,97,37.71,203.8,134,17.32,215.8,154,9.71,1,0,7293,International only
+130,Orlando1,321,94,yes,no,0,235.6,131,40.05,194.8,107,16.56,170.6,93,7.68,1,0,9254,International only
+148,Orlando1,321,100,yes,no,0,107.2,98,18.22,86.8,122,7.38,156.2,117,7.03,1,0,1536,International only
+154,Orlando1,321,101,yes,no,0,133.5,51,22.7,219.6,96,18.67,210.0,74,9.45,1,0,7913,International only
+155,Orlando1,321,101,yes,no,0,193.7,108,32.93,186.6,98,15.86,223.0,100,10.04,0,0,2074,International only
+169,Orlando1,321,105,yes,no,0,228.4,100,38.83,145.1,108,12.33,245.3,140,11.04,0,0,4540,International only
+246,Orlando1,321,133,yes,no,0,127.3,108,21.64,251.3,81,21.36,135.0,88,6.08,1,0,4369,International only
+286,Orlando1,321,166,yes,yes,28,175.8,126,29.89,253.6,76,21.56,128.5,72,5.78,1,0,9163,International & Voicemail 
+334,Orlando2,407,55,yes,no,0,221.0,115,37.57,165.4,97,14.06,235.4,117,10.59,1,0,7562,International only
+352,Orlando2,407,61,yes,yes,29,128.2,119,21.79,171.7,83,14.59,250.9,114,11.29,3,0,3843,International & Voicemail 
+454,Orlando2,407,100,yes,no,0,219.4,112,37.3,225.7,102,19.18,255.3,95,11.49,4,0,9449,International only
+457,Orlando2,407,101,yes,no,0,156.4,116,26.59,130.4,114,11.08,207.3,109,9.33,1,0,3341,International only
+463,Orlando2,407,103,yes,no,0,62.8,124,10.68,170.4,66,14.48,280.2,78,12.61,3,0,3678,International only
+478,Orlando2,407,109,yes,yes,26,217.2,138,36.92,145.5,111,12.37,280.7,76,12.63,0,0,9691,International & Voicemail 
+486,Orlando2,407,112,yes,yes,16,200.3,72,34.05,197.8,91,16.81,151.1,92,6.8,1,0,2928,International & Voicemail 
+523,Orlando2,407,126,yes,yes,34,244.9,118,41.63,219.6,105,18.67,210.8,136,9.49,4,0,3722,International & Voicemail 
+528,Orlando2,407,127,yes,yes,28,95.9,117,16.3,159.5,131,13.56,152.8,132,6.88,1,0,3726,International & Voicemail 
+571,Orlando2,407,146,yes,no,0,160.1,63,27.22,208.4,112,17.71,177.6,98,7.99,2,0,8543,International only
+572,Orlando2,407,147,yes,no,0,183.8,113,31.25,164.7,110,14.0,111.0,87,5.0,1,0,5995,International only
+580,Orlando2,407,155,yes,no,0,250.8,146,42.64,152.5,105,12.96,148.1,104,6.66,2,0,9531,International only
+581,Orlando2,407,156,yes,no,0,277.0,119,47.09,238.3,106,20.26,94.4,96,4.25,1,0,4518,International only
+608,Miami1,305,16,yes,no,0,110.0,91,18.7,147.3,75,12.52,190.5,73,8.57,0,0,2013,International only
+622,Miami1,305,40,yes,no,0,170.7,55,29.02,179.1,108,15.22,281.9,89,12.69,3,0,2189,International only
+645,Miami1,305,58,yes,yes,43,142.8,96,24.28,272.3,100,23.15,193.4,105,8.7,1,0,9348,International & Voicemail 
+676,Miami1,305,75,yes,no,0,153.2,78,26.04,210.8,99,17.92,153.5,100,6.91,1,0,9898,International only
+695,Miami1,305,81,yes,no,0,227.4,105,38.66,211.5,120,17.98,258.2,113,11.62,0,0,7861,International only
+705,Miami1,305,85,yes,no,0,197.2,97,33.52,211.7,115,17.99,210.1,133,9.45,4,0,2460,International only
+712,Miami1,305,89,yes,no,0,125.6,108,21.35,213.0,90,18.11,181.7,108,8.18,1,0,1677,International only
+713,Miami1,305,89,yes,no,0,206.9,134,35.17,167.7,105,14.25,155.7,86,7.01,0,0,3725,International only
+724,Miami1,305,93,yes,no,0,168.4,114,28.63,276.0,127,23.46,196.2,48,8.83,1,0,6847,International only
+734,Miami1,305,98,yes,yes,23,245.5,54,41.74,292.7,83,24.88,184.0,90,8.28,1,0,7155,International & Voicemail 
+746,Miami1,305,102,yes,no,0,233.8,103,39.75,221.6,131,18.84,146.9,106,6.61,0,0,6560,International only
+790,Miami1,305,122,yes,no,0,146.3,117,24.87,218.7,93,18.59,236.0,97,10.62,1,0,4089,International only
+791,Miami1,305,122,yes,yes,40,216.4,80,36.79,249.7,90,21.22,185.9,99,8.37,1,0,7737,International & Voicemail 
+795,Miami1,305,124,yes,no,0,244.6,89,41.58,188.8,80,16.05,206.0,114,9.27,1,0,6374,International only
+806,Miami1,305,127,yes,no,0,256.5,87,43.61,222.1,101,18.88,156.7,122,7.05,1,0,1413,International only
+821,Miami1,305,132,yes,yes,33,200.3,75,34.05,226.6,67,19.26,198.8,91,8.95,2,0,8113,International & Voicemail 
+833,Miami1,305,141,yes,yes,37,258.6,84,43.96,222.0,111,18.87,326.4,97,14.69,0,0,8173,International & Voicemail 
+854,Miami1,305,167,yes,no,0,219.1,100,37.25,242.9,90,20.65,168.9,101,7.6,2,0,3618,International only
+855,Miami1,305,167,yes,no,0,244.8,91,41.62,60.8,105,5.17,176.7,110,7.95,2,0,8772,International only
+858,Miami1,305,170,yes,no,0,259.9,68,44.18,245.0,122,20.83,134.4,121,6.05,3,0,1639,International only
+885,Miami2,786,37,yes,no,0,106.6,76,18.12,147.4,89,12.53,235.8,113,10.61,2,0,2000,International only
+886,Miami2,786,37,yes,yes,39,149.7,122,25.45,211.1,75,17.94,114.3,90,5.14,1,0,7892,International & Voicemail 
+908,Miami2,786,61,yes,no,0,78.2,103,13.29,195.9,149,16.65,108.0,100,4.86,2,0,9980,International only
+915,Miami2,786,63,yes,yes,21,151.5,99,25.76,147.8,89,12.56,210.4,114,9.47,1,0,8029,International & Voicemail 
+934,Miami2,786,72,yes,yes,29,139.8,114,23.77,138.2,91,11.75,221.0,88,9.95,0,0,1343,International & Voicemail 
+941,Miami2,786,75,yes,no,0,166.7,113,28.34,148.3,122,12.61,186.9,121,8.41,3,0,6626,International only
+991,Miami2,786,94,yes,no,0,170.1,113,28.92,271.8,94,23.1,110.7,78,4.98,1,0,3117,International only
+992,Miami2,786,94,yes,no,0,243.2,109,41.34,147.0,88,12.5,94.9,99,4.27,4,0,3046,International only
+1006,Miami2,786,98,yes,no,0,12.5,67,2.13,256.6,90,21.81,169.4,88,7.62,1,0,6772,International only
+1025,Miami2,786,107,yes,no,0,234.1,91,39.8,163.1,105,13.86,282.5,100,12.71,1,0,9688,International only
+1028,Miami2,786,109,yes,no,0,209.1,141,35.55,205.0,93,17.43,119.4,111,5.37,2,0,9839,International only
+1054,Miami2,786,117,yes,yes,22,196.0,82,33.32,322.7,82,27.43,225.6,120,10.15,1,0,6531,International & Voicemail 
+1058,Miami2,786,118,yes,no,0,160.0,123,27.2,175.4,96,14.91,184.8,99,8.32,2,0,7734,International only
+1096,Miami2,786,135,yes,no,0,186.0,107,31.62,66.0,94,5.61,213.1,105,9.59,1,0,6037,International only
+1097,Miami2,786,136,yes,no,0,256.8,90,43.66,230.1,104,19.56,143.6,82,6.46,3,0,8596,International only
+1103,Miami2,786,137,yes,no,0,174.0,123,29.58,161.3,115,13.71,260.7,98,11.73,2,0,2540,International only
+1104,Miami2,786,138,yes,no,0,169.3,82,28.78,217.9,147,18.52,184.2,77,8.29,1,0,6629,International only
+1105,Miami2,786,138,yes,yes,17,225.2,116,38.28,173.4,88,14.74,145.8,99,6.56,0,0,7485,International & Voicemail 
+1118,Miami2,786,147,yes,no,0,157.0,79,26.69,103.1,94,8.76,211.8,96,9.53,0,0,9001,International only
+1120,Miami2,786,148,yes,no,0,218.9,88,37.21,208.0,85,17.68,203.3,99,9.15,0,0,3915,International only
+1185,Jacksonville,904,44,yes,no,0,62.3,92,10.59,275.0,82,23.38,138.7,108,6.24,1,0,7705,International only
+1194,Jacksonville,904,50,yes,yes,26,307.1,94,52.21,289.4,78,24.6,174.9,109,7.87,0,0,5891,International & Voicemail 
+1208,Jacksonville,904,60,yes,no,0,183.0,110,31.11,206.7,93,17.57,203.8,119,9.17,1,0,8351,International only
+1221,Jacksonville,904,66,yes,no,0,208.7,84,35.48,173.3,88,14.73,264.7,107,11.91,3,0,3333,International only
+1272,Jacksonville,904,87,yes,yes,40,221.6,79,37.67,157.1,74,13.35,222.4,124,10.01,1,0,4147,International & Voicemail 
+1289,Jacksonville,904,92,yes,no,0,264.3,91,44.93,160.9,115,13.68,198.6,73,8.94,0,0,9401,International only
+1290,Jacksonville,904,92,yes,yes,45,281.1,88,47.79,198.0,103,16.83,94.3,76,4.24,0,0,9522,International & Voicemail 
+1327,Jacksonville,904,100,yes,no,0,68.5,110,11.65,337.1,,28.65,205.2,99,9.23,0,0,2455,International only
+1332,Jacksonville,904,104,yes,no,0,148.2,108,25.19,161.8,113,13.75,259.3,103,11.67,0,0,1700,International only
+1361,Jacksonville,904,114,yes,yes,31,174.5,104,29.67,224.2,92,19.06,116.3,91,5.23,2,0,8067,International & Voicemail 
+1379,Jacksonville,904,119,yes,yes,32,173.0,101,29.41,209.4,93,17.8,231.1,91,10.4,0,0,9952,International & Voicemail 
+1402,Jacksonville,904,126,yes,no,0,197.6,126,33.59,246.5,112,20.95,285.3,104,12.84,,0,9798,International only
+1403,Jacksonville,904,126,yes,yes,26,129.3,123,21.98,176.5,114,15.0,154.5,102,6.95,1,0,3048,International & Voicemail 
+1432,Jacksonville,904,140,yes,yes,27,188.9,124,32.11,160.9,102,13.68,197.7,100,8.9,4,0,1076,International & Voicemail 
+1448,Jacksonville,904,149,yes,no,0,176.2,87,29.95,145.0,81,12.33,249.5,92,11.23,0,0,9460,International only
+1468,Jacksonville,904,161,yes,no,0,156.1,114,26.54,180.3,63,15.33,179.6,115,8.08,2,0,7328,International only
+1493,Tampa,813,4,yes,no,0,145.3,89,24.7,303.8,93,25.82,206.1,82,9.27,0,0,6346,International only
+1505,Tampa,813,33,yes,no,0,190.6,100,32.4,161.7,104,13.74,189.9,136,8.55,1,0,5973,International only
+1527,Tampa,813,55,yes,no,0,106.1,77,18.04,123.5,100,10.5,96.4,92,4.34,0,0,5058,International only
+1563,Tampa,813,80,yes,yes,15,159.3,110,27.08,170.6,120,14.5,141.2,82,6.35,1,0,4420,International & Voicemail 
+1581,Tampa,813,87,yes,yes,36,171.2,138,29.1,185.8,102,15.79,227.6,97,10.24,1,0,1360,International & Voicemail 
+1598,Tampa,813,93,yes,yes,20,187.5,110,31.88,169.8,94,14.43,175.3,127,7.89,1,0,1768,International & Voicemail 
+1607,Tampa,813,97,yes,no,0,143.7,117,24.43,273.0,82,23.21,178.3,81,8.02,0,0,1715,International only
+1627,Tampa,813,103,yes,no,0,171.7,78,29.19,144.5,86,12.28,157.9,106,7.11,3,0,2560,International only
+1636,Tampa,813,105,yes,no,0,150.0,106,25.5,293.8,123,24.97,250.7,65,11.28,3,0,2250,International only
+1640,Tampa,813,107,yes,no,0,273.5,104,46.5,183.8,68,15.62,153.8,67,6.92,2,0,8875,International only
+1683,Tampa,813,129,yes,no,0,192.9,131,32.79,185.5,101,15.77,205.2,130,9.23,1,0,2712,International only
+1704,Tampa,813,142,yes,no,0,140.8,140,23.94,228.6,119,19.43,152.9,88,6.88,1,0,2694,International only
+1706,Tampa,813,144,yes,yes,35,174.8,127,29.72,219.6,93,18.67,255.8,90,11.51,0,0,9021,International & Voicemail 
+1717,Tampa,813,151,yes,no,0,198.7,70,33.78,209.5,106,17.81,281.9,126,12.69,0,0,5843,International only
+1729,Tampa,813,163,yes,no,0,197.2,90,33.52,188.5,113,16.02,211.1,94,9.5,1,0,7290,International only
+1737,Tampa,813,184,yes,no,0,213.8,105,36.35,159.6,84,13.57,139.2,137,6.26,,0,6381,International only
+1749,West Palm Beach,561,15,yes,no,0,141.4,80,24.04,123.9,76,10.53,323.5,88,14.56,2,0,3312,International only
+1762,West Palm Beach,561,43,yes,no,0,251.5,105,42.76,212.8,104,18.09,157.8,67,7.1,0,0,9847,International only
+1781,West Palm Beach,561,57,yes,yes,17,236.5,94,40.21,163.1,94,13.86,236.7,117,10.65,2,0,6418,International & Voicemail 
+1785,West Palm Beach,561,61,yes,yes,16,143.5,76,24.4,242.6,58,20.62,147.7,95,6.65,0,0,5525,International & Voicemail 
+1790,West Palm Beach,561,63,yes,no,0,62.9,112,10.69,202.9,111,17.25,259.0,58,11.66,1,0,4287,International only
+1837,West Palm Beach,561,88,yes,yes,25,288.5,114,49.05,203.4,74,17.29,228.4,117,10.28,1,0,4870,International & Voicemail 
+1842,West Palm Beach,561,91,yes,no,0,151.8,115,25.81,103.6,116,8.81,156.3,86,7.03,1,0,9383,International only
+1843,West Palm Beach,561,91,yes,yes,24,93.5,112,15.9,183.4,128,15.59,240.7,133,10.83,0,0,9855,International & Voicemail 
+1860,West Palm Beach,561,99,yes,yes,39,126.8,94,21.56,293.6,115,24.96,174.1,91,7.83,0,0,3685,International & Voicemail 
+1891,West Palm Beach,561,115,yes,no,0,180.0,119,30.6,198.8,126,16.9,217.1,70,9.77,1,0,2442,International only
+1928,West Palm Beach,561,136,yes,yes,29,85.2,98,14.48,230.4,85,19.58,243.6,104,10.96,2,0,1389,International & Voicemail 
+1951,West Palm Beach,561,157,yes,no,0,180.4,123,30.67,194.0,98,16.49,227.3,88,10.23,0,0,9938,International only
+1964,West Palm Beach,561,179,yes,yes,38,220.1,78,37.42,234.3,71,19.92,237.3,85,10.68,4,0,3412,International & Voicemail 
+1971,West Palm Beach,561,190,yes,no,0,111.9,55,19.02,223.0,124,18.96,243.2,81,10.94,3,0,5753,International only
+1978,Daytona Beach,386,3,yes,no,0,161.0,96,27.37,244.9,82,20.82,180.8,103,8.14,1,0,8012,International only
+1994,Daytona Beach,386,40,yes,no,0,220.8,100,37.54,265.7,106,22.58,212.8,94,9.58,0,0,1900,International only
+1996,Daytona Beach,386,42,yes,no,0,180.7,127,30.72,174.6,94,14.84,165.3,114,7.44,2,0,8002,International only
+2000,Daytona Beach,386,51,yes,yes,12,135.8,60,23.09,200.6,134,17.05,192.4,98,8.66,2,0,9130,International & Voicemail 
+2008,Daytona Beach,386,56,yes,no,0,177.7,114,30.21,215.6,110,18.33,236.7,67,10.65,1,0,1640,International only
+2011,Daytona Beach,386,59,yes,yes,31,225.0,78,38.25,191.3,79,16.26,226.7,79,10.2,1,0,5354,International & Voicemail 
+2023,Daytona Beach,386,64,yes,no,0,146.7,83,24.94,148.3,91,12.61,238.6,69,10.74,3,0,8391,International only
+2054,Daytona Beach,386,80,yes,yes,30,184.2,132,31.31,167.5,109,14.24,212.8,114,9.58,0,0,7866,International & Voicemail 
+2074,Daytona Beach,386,86,yes,no,0,266.1,120,45.24,182.0,92,15.47,206.5,103,9.29,1,0,7435,International only
+2078,Daytona Beach,386,87,yes,no,0,134.2,80,22.81,165.0,71,14.03,173.1,102,7.79,0,0,7214,International only
+2100,Daytona Beach,386,96,yes,no,0,200.6,117,34.1,289.5,120,24.61,98.3,95,4.42,2,0,5455,International only
+2117,Daytona Beach,386,104,yes,no,0,160.4,73,27.27,293.9,103,24.98,306.6,90,13.8,4,0,3966,International only
+2149,Daytona Beach,386,113,yes,no,0,204.3,82,34.73,188.8,115,16.05,139.4,97,6.27,1,0,4560,International only
+2162,Daytona Beach,386,118,yes,no,0,223.4,98,37.98,220.6,101,18.75,203.9,118,9.18,0,0,8027,International only
+2173,Daytona Beach,386,121,yes,yes,44,254.1,127,43.2,180.2,108,15.32,196.2,129,8.83,3,0,3343,International & Voicemail 
+2202,Daytona Beach,386,139,yes,no,0,161.5,121,27.46,192.9,137,16.4,168.3,96,7.57,0,0,9371,International only
+2213,Daytona Beach,386,146,yes,no,0,111.1,126,18.89,313.4,95,26.64,215.7,82,9.71,1,0,4358,International only
+2214,Daytona Beach,386,146,yes,no,0,133.0,65,22.61,262.8,93,22.34,214.3,128,9.64,1,0,6544,International only
+2215,Daytona Beach,386,146,yes,no,0,204.4,135,34.75,219.1,90,18.62,222.7,114,10.02,3,0,4842,International only
+2220,Daytona Beach,386,148,yes,no,0,148.2,138,25.19,159.6,123,13.57,197.4,62,8.88,2,0,7710,International only
+2243,Daytona Beach,386,166,yes,yes,35,128.2,138,21.79,274.5,113,23.33,298.9,130,13.45,2,0,5849,International & Voicemail 
+2296,Clearwater,727,63,yes,yes,36,199.0,110,33.83,291.3,111,24.76,197.6,92,8.89,1,0,3719,International & Voicemail 
+2304,Clearwater,727,68,yes,yes,39,142.0,140,24.14,241.6,89,20.54,302.0,72,13.59,1,0,2138,International & Voicemail 
+2324,Clearwater,727,79,yes,no,0,103.5,134,17.6,319.3,111,27.14,239.9,124,10.8,2,0,6019,International only
+2329,Clearwater,727,81,yes,yes,37,237.1,76,40.31,264.2,125,22.46,271.3,120,12.21,1,0,7581,International & Voicemail 
+2357,Clearwater,727,92,yes,no,0,173.1,140,29.43,240.3,105,20.43,233.2,117,10.49,1,0,6196,International only
+2364,Clearwater,727,94,yes,yes,23,197.1,125,33.51,214.5,136,18.23,282.2,103,12.7,4,0,5009,International & Voicemail 
+2400,Clearwater,727,107,yes,no,0,194.4,83,33.05,247.8,84,21.06,245.4,93,11.04,2,0,8268,International only
+2411,Clearwater,727,113,yes,no,0,125.2,93,21.28,206.4,119,17.54,129.3,139,5.82,0,0,9011,International only
+2418,Clearwater,727,116,yes,yes,27,175.5,137,29.84,210.6,60,17.9,294.8,121,13.27,1,0,5424,International & Voicemail 
+2422,Clearwater,727,117,yes,no,0,198.4,121,33.73,249.5,104,21.21,162.8,115,7.33,1,0,5766,International only
+2440,Clearwater,727,127,yes,no,0,180.9,114,30.75,209.5,118,17.81,249.9,105,11.25,2,0,5567,International only
+2441,Clearwater,727,127,yes,no,0,247.5,99,42.08,108.5,118,9.22,232.0,72,10.44,2,0,4706,International only
+2460,Clearwater,727,136,yes,yes,33,203.9,106,34.66,187.6,99,15.95,101.7,107,4.58,3,0,1381,International & Voicemail 
+2464,Clearwater,727,138,yes,no,0,268.4,81,45.63,174.4,115,14.82,193.5,96,8.71,1,0,2209,International only
+2496,Clearwater,727,185,yes,yes,30,154.1,114,26.2,118.7,106,10.09,258.4,105,11.63,2,0,7904,International & Voicemail 
+2529,Sarasota,941,55,yes,no,0,269.6,121,45.83,171.7,91,14.59,219.0,98,9.86,1,0,5970,International only
+2590,Sarasota,941,87,yes,no,0,167.3,119,28.44,198.5,119,16.87,133.1,88,5.99,1,0,1272,International only
+2614,Sarasota,941,99,yes,no,0,197.2,127,33.52,156.0,92,13.26,204.1,99,9.18,4,0,8512,International only
+2658,Sarasota,941,116,yes,no,0,215.4,104,36.62,204.8,79,17.41,278.5,109,12.53,3,0,7425,International only
+2697,Sarasota,941,135,yes,yes,24,127.7,54,21.71,215.0,105,18.28,234.3,84,10.54,2,0,4013,International & Voicemail 
+2705,Sarasota,941,142,yes,yes,25,191.1,109,32.49,149.6,120,12.72,227.8,60,10.25,0,0,2901,International & Voicemail 
+2709,Sarasota,941,144,yes,no,0,150.0,69,25.5,285.9,73,24.3,190.6,121,8.58,0,0,8238,International only
+2710,Sarasota,941,144,yes,no,0,203.5,100,34.6,247.6,103,21.05,194.3,94,8.74,0,0,7795,International only
+2717,Sarasota,941,148,yes,no,0,218.7,111,37.18,155.6,133,13.23,277.4,62,12.48,1,0,4234,International only
+2759,Cape Coral,239,29,yes,yes,37,235.0,101,39.95,183.3,79,15.58,139.8,106,6.29,2,0,3058,International & Voicemail 
+2762,Cape Coral,239,33,yes,no,0,164.0,99,27.88,153.1,102,13.01,123.8,104,5.57,0,0,8956,International only
+2804,Cape Coral,239,64,yes,yes,33,127.2,93,21.62,162.9,104,13.85,247.4,109,11.13,0,0,2603,International & Voicemail 
+2811,Cape Coral,239,67,yes,no,0,120.9,58,20.55,235.0,88,19.98,95.1,130,4.28,2,0,9538,International only
+2852,Cape Coral,239,83,yes,yes,32,94.7,111,16.1,154.4,98,13.12,200.4,109,9.02,2,0,5980,International & Voicemail 
+2857,Cape Coral,239,85,yes,no,0,116.2,86,19.75,229.7,127,19.52,204.2,109,9.19,3,0,2951,International only
+2858,Cape Coral,239,85,yes,no,0,165.4,107,28.12,196.0,126,16.66,349.2,110,15.71,2,0,5878,International only
+2878,Cape Coral,239,91,yes,no,0,129.9,112,22.08,173.3,83,14.73,247.2,130,11.12,3,0,2919,International only
+2882,Cape Coral,239,92,yes,no,0,255.8,125,43.49,142.7,111,12.13,181.2,101,8.15,0,0,2917,International only
+2901,Cape Coral,239,98,yes,no,0,158.4,71,26.93,306.6,66,26.06,144.2,93,6.49,1,0,3316,International only
+2940,Cape Coral,239,112,yes,no,0,161.9,138,27.52,200.9,114,17.08,134.0,134,6.03,1,0,2693,International only
+2959,Cape Coral,239,118,yes,yes,39,153.8,106,26.15,123.3,111,10.48,117.8,103,5.3,1,0,2855,International & Voicemail 
+2991,Cape Coral,239,129,yes,no,0,267.4,78,45.46,204.2,85,17.36,111.7,146,5.03,1,0,4992,International only
+3018,Cape Coral,239,145,yes,yes,30,175.3,107,29.8,153.3,116,13.03,233.6,85,10.51,1,0,6398,International & Voicemail 
+3058,Tallahassee,850,19,yes,no,0,237.7,98,40.41,207.1,121,17.6,182.2,95,8.2,0,0,3910,International only
+3083,Tallahassee,850,54,yes,no,0,214.1,77,36.4,240.5,94,20.44,188.9,75,8.5,1,0,3953,International only
+3084,Tallahassee,850,54,yes,no,0,236.3,91,40.17,152.8,130,12.99,160.3,98,7.21,3,0,6932,International only
+3137,Tallahassee,850,81,yes,no,0,250.6,85,42.6,187.9,50,15.97,120.3,131,5.41,1,0,4664,International only
+3138,Tallahassee,850,82,yes,no,0,208.8,101,35.5,213.7,87,18.16,175.1,86,7.88,3,0,4604,International only
+3142,Tallahassee,850,83,yes,no,0,271.5,87,46.16,216.3,126,18.39,121.1,105,5.45,1,0,3561,International only
+3145,Tallahassee,850,84,yes,no,0,443.2,71,50.9,61.9,88,5.26,196.9,89,8.86,2,0,9999,International only
+3186,Tallahassee,850,102,yes,no,0,224.2,81,38.11,243.3,90,20.68,147.8,66,6.65,3,0,9689,International only
+3252,Tallahassee,850,128,yes,no,0,245.2,112,41.68,101.5,101,8.63,152.3,116,6.85,0,0,6038,International only
+3271,Tallahassee,850,136,yes,no,0,183.4,103,31.18,141.9,113,12.06,200.4,122,9.02,2,0,1547,International only
+3272,Tallahassee,850,136,yes,no,0,199.2,122,33.86,214.7,114,18.25,150.9,105,6.79,1,0,9333,International only
+3289,Tallahassee,850,147,yes,yes,24,219.9,118,37.38,208.5,116,17.72,352.5,111,15.86,3,0,5682,International & Voicemail 
+3297,Tallahassee,850,149,yes,no,0,180.9,79,30.75,194.9,83,16.57,197.8,109,8.9,3,0,9079,International only
+3304,Tallahassee,850,155,yes,no,0,163.1,94,27.73,291.7,108,24.79,96.4,111,4.34,0,0,2961,International only
+3305,Tallahassee,850,155,yes,yes,26,211.7,121,35.99,139.2,123,11.83,146.7,89,6.6,1,0,8362,International & Voicemail 
+3314,Tallahassee,850,161,yes,no,0,189.6,78,32.23,267.4,117,22.73,184.5,137,8.3,1,0,1349,International only
+3316,Tallahassee,850,169,yes,no,0,57.1,98,9.71,199.7,78,16.97,274.7,103,12.36,3,0,5870,International only
